@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 87816f42747d5f44e923a5901f7a6687
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alice_idle_with_bro_0
+    21300002: alice_idle_with_bro_1
+    21300004: alice_idle_with_bro_2
+    21300006: alice_idle_with_bro_3
+    21300008: alice_idle_with_bro_4
+    21300010: alice_idle_with_bro_5
+    21300012: alice_idle_with_bro_6
+    21300014: alice_idle_with_bro_7
+    21300016: alice_idle_with_bro_8
+    21300018: alice_idle_with_bro_9
+    21300020: alice_idle_with_bro_10
+    21300022: alice_idle_with_bro_11
+    21300024: alice_idle_with_bro_12
+    21300026: alice_idle_with_bro_13
+    21300028: alice_idle_with_bro_14
+    21300030: alice_idle_with_bro_15
+    21300032: alice_idle_with_bro_16
+    21300034: alice_idle_with_bro_17
+    21300036: alice_idle_with_bro_18
+    21300038: alice_idle_with_bro_19
+    21300040: alice_idle_with_bro_20
+    21300042: alice_idle_with_bro_21
+    21300044: alice_idle_with_bro_22
+    21300046: alice_idle_with_bro_23
+    21300048: alice_idle_with_bro_24
+    21300050: alice_idle_with_bro_25
+    21300052: alice_idle_with_bro_26
+    21300054: alice_idle_with_bro_27
+    21300056: alice_idle_with_bro_28
+    21300058: alice_idle_with_bro_29
+    21300060: alice_idle_with_bro_30
+    21300062: alice_idle_with_bro_31
+    21300064: alice_idle_with_bro_32
+    21300066: alice_idle_with_bro_33
+    21300068: alice_idle_with_bro_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alice_idle_with_bro_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6091
+        width: 651
+        height: 757
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 6091
+        width: 650
+        height: 756
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_3
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 6091
+        width: 642
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5328
+        width: 637
+        height: 754
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5328
+        width: 636
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 5328
+        width: 637
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_7
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 5328
+        width: 630
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4571
+        width: 624
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_9
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4571
+        width: 623
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4571
+        width: 623
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_11
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 4571
+        width: 617
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3807
+        width: 617
+        height: 744
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3807
+        width: 616
+        height: 744
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3807
+        width: 617
+        height: 744
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_15
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3807
+        width: 615
+        height: 744
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3044
+        width: 610
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_17
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3044
+        width: 616
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_18
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3044
+        width: 617
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_19
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 3044
+        width: 617
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2280
+        width: 623
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2280
+        width: 623
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_23
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2280
+        width: 623
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1518
+        width: 624
+        height: 749
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_25
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1518
+        width: 630
+        height: 749
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_26
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1518
+        width: 637
+        height: 754
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_27
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1518
+        width: 636
+        height: 755
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 760
+        width: 637
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 760
+        width: 643
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_30
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 760
+        width: 650
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_31
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 760
+        width: 649
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 651
+        height: 747
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_33
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 6098
+        width: 636
+        height: 747
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_with_bro_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2283
+        width: 625
+        height: 742
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

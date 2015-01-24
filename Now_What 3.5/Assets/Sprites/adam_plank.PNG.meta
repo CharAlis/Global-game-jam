@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 5b9f2894896ba4e4983a4fae82b5eea8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: adam_plank_0
+    21300002: adam_plank_1
+    21300004: adam_plank_2
+    21300006: adam_plank_3
+    21300008: adam_plank_4
+    21300010: adam_plank_5
+    21300012: adam_plank_6
+    21300014: adam_plank_7
+    21300016: adam_plank_8
+    21300018: adam_plank_9
+    21300020: adam_plank_10
+    21300022: adam_plank_11
+    21300024: adam_plank_12
+    21300026: adam_plank_13
+    21300028: adam_plank_14
+    21300030: adam_plank_15
+    21300032: adam_plank_16
+    21300034: adam_plank_17
+    21300036: adam_plank_18
+    21300038: adam_plank_19
+    21300040: adam_plank_20
+    21300042: adam_plank_21
+    21300044: adam_plank_22
+    21300046: adam_plank_23
+    21300048: adam_plank_24
+    21300050: adam_plank_25
+    21300052: adam_plank_26
+    21300054: adam_plank_27
+    21300056: adam_plank_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: adam_plank_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 8405
+        width: 679
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 8405
+        width: 688
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_2
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 8405
+        width: 679
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_3
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 8395
+        width: 651
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7194
+        width: 633
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_5
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 7194
+        width: 633
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_6
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 7185
+        width: 624
+        height: 1154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_7
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 7175
+        width: 558
+        height: 1164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5983
+        width: 475
+        height: 1164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_9
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 5983
+        width: 503
+        height: 1164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_10
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 6002
+        width: 549
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_11
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 6002
+        width: 567
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4819
+        width: 586
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 4819
+        width: 632
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_14
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 4829
+        width: 678
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_15
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4829
+        width: 667
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3637
+        width: 651
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_17
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 3627
+        width: 651
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_18
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 3618
+        width: 670
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_19
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 3609
+        width: 633
+        height: 1154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2408
+        width: 596
+        height: 1163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_21
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2407
+        width: 567
+        height: 1164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_22
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2407
+        width: 530
+        height: 1164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_23
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 2407
+        width: 484
+        height: 1164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1225
+        width: 540
+        height: 1154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_25
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1243
+        width: 586
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_26
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1262
+        width: 633
+        height: 1117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_27
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1253
+        width: 669
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adam_plank_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 679
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
