@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: f992b56710cf33742a27624cc7df5bc0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alice_walk_0
+    21300002: alice_walk_1
+    21300004: alice_walk_2
+    21300006: alice_walk_3
+    21300008: alice_walk_4
+    21300010: alice_walk_5
+    21300012: alice_walk_6
+    21300014: alice_walk_7
+    21300016: alice_walk_8
+    21300018: alice_walk_9
+    21300020: alice_walk_10
+    21300022: alice_walk_11
+    21300024: alice_walk_12
+    21300026: alice_walk_13
+    21300028: alice_walk_14
+    21300030: alice_walk_15
+    21300032: alice_walk_16
+    21300034: alice_walk_17
+    21300036: alice_walk_18
+    21300038: alice_walk_20
+    21300040: alice_walk_21
+    21300042: alice_walk_22
+    21300044: alice_walk_23
+    21300046: alice_walk_24
+    21300048: alice_walk_25
+    21300050: alice_walk_26
+    21300052: alice_walk_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alice_walk_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4582
+        width: 676
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_1
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 4582
+        width: 681
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_2
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 4582
+        width: 682
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_3
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 4587
+        width: 691
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3841
+        width: 693
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3826
+        width: 693
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_6
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 3816
+        width: 698
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_7
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 3816
+        width: 701
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3054
+        width: 703
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_9
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3054
+        width: 704
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 3054
+        width: 707
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_11
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 3054
+        width: 704
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2298
+        width: 703
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2292
+        width: 706
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_14
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2292
+        width: 703
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_15
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2292
+        width: 706
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1541
+        width: 708
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1526
+        width: 713
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_18
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1531
+        width: 714
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 785
+        width: 708
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_21
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 769
+        width: 699
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_22
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 764
+        width: 698
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_23
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 764
+        width: 693
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 688
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_25
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3
+        width: 682
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_26
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 3
+        width: 676
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_walk_26
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1537
+        width: 703
+        height: 750
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

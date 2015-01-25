@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: d247a2c02bbb5b7438ab30550de4aa30
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alice_idle_alone_1
+    21300002: alice_idle_alone_3
+    21300004: alice_idle_alone_4
+    21300006: alice_idle_alone_5
+    21300008: alice_idle_alone_6
+    21300010: alice_idle_alone_7
+    21300012: alice_idle_alone_8
+    21300014: alice_idle_alone_9
+    21300016: alice_idle_alone_10
+    21300018: alice_idle_alone_11
+    21300020: alice_idle_alone_12
+    21300022: alice_idle_alone_13
+    21300024: alice_idle_alone_14
+    21300026: alice_idle_alone_15
+    21300028: alice_idle_alone_16
+    21300030: alice_idle_alone_17
+    21300032: alice_idle_alone_18
+    21300034: alice_idle_alone_19
+    21300036: alice_idle_alone_20
+    21300038: alice_idle_alone_21
+    21300040: alice_idle_alone_22
+    21300042: alice_idle_alone_23
+    21300044: alice_idle_alone_24
+    21300046: alice_idle_alone_25
+    21300048: alice_idle_alone_26
+    21300050: alice_idle_alone_25
+    21300052: alice_idle_alone_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alice_idle_alone_1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 4691
+        width: 345
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_3
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 4691
+        width: 345
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3905
+        width: 348
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_5
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3905
+        width: 348
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_6
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3905
+        width: 354
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_7
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3905
+        width: 353
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3125
+        width: 359
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3125
+        width: 353
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_10
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3125
+        width: 354
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_11
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3125
+        width: 348
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2344
+        width: 348
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2344
+        width: 347
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_14
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2344
+        width: 347
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_15
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2344
+        width: 347
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1559
+        width: 343
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_17
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1559
+        width: 341
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_18
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1559
+        width: 343
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_19
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1559
+        width: 337
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 778
+        width: 338
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_21
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 778
+        width: 337
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_22
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 778
+        width: 343
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_23
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 778
+        width: 337
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 343
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 347
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_26
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 348
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4691
+        width: 368
+        height: 748
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_idle_alone_26
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 4696
+        width: 348
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
